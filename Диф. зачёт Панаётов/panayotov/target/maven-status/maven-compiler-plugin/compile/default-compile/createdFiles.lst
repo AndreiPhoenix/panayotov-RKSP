@@ -1,0 +1,5 @@
+ru\rksp\panayotov\config\RabbitMQConfig.class
+ru\rksp\panayotov\controller\EventController.class
+ru\rksp\panayotov\dto\EventRequest.class
+ru\rksp\panayotov\IngestServiceApplication.class
+ru\rksp\panayotov\config\SwaggerConfig.class
