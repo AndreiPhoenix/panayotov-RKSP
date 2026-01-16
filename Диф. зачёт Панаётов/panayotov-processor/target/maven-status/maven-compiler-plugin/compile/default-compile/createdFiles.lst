@@ -1,0 +1,10 @@
+ru\rksp\panayotov\processor\entity\PostgreSQLEvent.class
+ru\rksp\panayotov\processor\service\RabbitMQListener.class
+ru\rksp\panayotov\processor\config\SwaggerConfig.class
+ru\rksp\panayotov\processor\dto\EventDTO.class
+ru\rksp\panayotov\processor\ProcessorApplication.class
+ru\rksp\panayotov\processor\config\RabbitMQConfig.class
+ru\rksp\panayotov\processor\controller\EventController.class
+ru\rksp\panayotov\processor\repository\PostgreSQLRepository.class
+ru\rksp\panayotov\processor\config\DataSourceConfig.class
+ru\rksp\panayotov\processor\service\EventService.class
