@@ -141,6 +141,6 @@ RabbitMQ: 5672 (AMQP), 15672 (Management UI)
 Доступ к админ-панелям
 RabbitMQ Management: http://localhost:15672 (guest/guest)
 
-Swagger UI ingest-service: http://localhost:8081/swagger-ui.html
+Swagger UI ingest-service: http://localhost:8080/swagger-ui.html
 
-Swagger UI processor-service: http://localhost:8082/swagger-ui.html
+Swagger UI processor-service: http://localhost:8088/swagger-ui.html
